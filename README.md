@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rakshan Chintala
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Spring Boot and Spring FrameWork
+- I'm good at Java and SQL.
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me rakshanch0004@gmail.com
 
