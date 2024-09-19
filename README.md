@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Spring Boot and Spring FrameWork.
 - 💞️ Looking to collaborate with others on interesting ideas
 - 📫 How to reach me rakshanch0004@gmail.com.
-- 📫 https://portfolio-rakshan-jj23cddn2-rakshans-projects.vercel.app/
+- 📫 http://portfolio-rakshan.vercel.app
 - 📫 https://www.linkedin.com/in/rakshan-chintala-08965521a/
