@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **projects involving Generative AI, Machine Learning, Spring Boot, and cloud technologies to build innovative, scalable solutions.**
 
-- 👨‍💻 All of my projects are available at [http://portfolio-rakshan.vercel.app/](http://portfolio-rakshan.vercel.app/)
+- 👨‍💻 All of my projects are available at [http://portfolio-rakshan.vercel.app/](https://portfolio-rakshan.vercel.app/)
 
 - 💬 Ask me about **Java, Spring Boot, cloud tech (AWS, GCP), Gen AI, and using Docker & SQL**
 
