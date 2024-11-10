@@ -1,4 +1,3 @@
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/74dc1672-a0c7-4ea1-a4e0-6c8011d883e8)
 
 <h1 align="center">Hi 👋, I'm Rakshan Chintala</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
