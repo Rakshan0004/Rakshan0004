@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://portfolio-rakshan.vercel.app/](https://portfolio-rakshan.vercel.app/)
 
-- 💬 Ask me about **Java, Spring Boot, cloud tech (AWS, GCP), Gen AI, and using Docker & SQL**
+- 💬 Ask me about **Java, Spring Boot, Python, cloud tech (AWS)L**
 
 - 📫 How to reach me **rakshanch0004@gmail.com**
 
