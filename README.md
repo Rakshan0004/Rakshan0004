@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rakshanch0004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14dYS1LbAjxwT725rFtRUXdGytZeIp23L/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QWmkW7NY_86BFkqNaws5MmB3-YQAzpea/view?usp=sharing)
 
 - ⚡ Fun fact **I speak fluent Java and sarcasm!**
 
