@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshan0004&label=Profile%20views&color=0e75b6&style=flat" alt="rakshan0004" /> </p>
  
-- 🤖 Exploring Machine Learning & AI
+- 🚀 Exploring Full-Stack Development with React.js and Spring Boot | Passionate about building scalable, modern web applications 
 
-- 💻 Building Spring Boot applications and AI applications
+- 🌱 Always learning and experimenting with new technologies!
 
 - 👯 I’m looking to collaborate on **projects involving Java, Python, Generative AI, Machine Learning, Spring Boot, and cloud technologies to build innovative, scalable solutions.**
 
