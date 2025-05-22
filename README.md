@@ -1,35 +1,215 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rakshan+Chintala;Java+Full+Stack+Developer;Fresh+Graduate+%7C+2024;Building+Scalable+Web+Solutions;Ready+to+Make+an+Impact!" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Rakshan Chintala</h1>
-<h3 align="center">Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
+<h3 align="center">🚀 Passionate Java Full Stack Developer | Fresh Graduate 2024 🎓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshan0004&label=Profile%20views&color=0e75b6&style=flat" alt="rakshan0004" /> </p>
- 
-- 🚀 Exploring Full-Stack Development with React.js and Spring Boot | Passionate about building scalable, modern web applications 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-- 🌱 Always learning and experimenting with new technologies!
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 👯 I’m looking to collaborate on **projects involving Java, Python, Generative AI, Machine Learning, Spring Boot, and cloud technologies to build innovative, scalable solutions.**
+## 🧑‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [http://portfolio-rakshan.vercel.app/](https://portfolio-rakshan.vercel.app/)
+- 🎓 **Fresh Graduate (2024)** with hands-on experience in Java Full Stack Development
+- 💼 **Full Stack Developer Intern** - Built real-world applications with Spring Boot & React
+- 🔭 Currently working on **Enterprise-level Java Projects** and **Modern Web Applications**
+- 🌱 Learning **Advanced Spring Framework**, **Cloud Technologies**, and **AI/ML Integration**
+- 💡 Passionate about **Clean Code**, **Problem Solving**, and **Scalable Architecture**
+- 🎯 **Goal**: To contribute to innovative projects as a Java Full Stack Developer
+- 💬 Ask me about **Java**, **Spring Boot**, **React**, **REST APIs**, **Database Design**
+- 📫 Reach me: **rakshanch0004@gmail.com**
+- ⚡ Fun fact: **I can debug faster than I can drink coffee!** ☕️🐛
 
-- 📫 How to reach me **rakshanch0004@gmail.com**
+<br clear="right"/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QWmkW7NY_86BFkqNaws5MmB3-YQAzpea/view?usp=sharing)
+## 🛠️ Tech Stack & Skills
 
-- ⚡ Fun fact **I speak fluent Java and sarcasm!**
-
-<h3 align="left">Connect with me:</h3>
+### 🖥️ Backend Development
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rakshan-chintala-08965521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakshan-chintala-08965521a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakshanch0004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakshanch0004" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🎨 Frontend Development
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/thymeleaf/thymeleaf-icon.svg" alt="thymeleaf" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshan0004&show_icons=true&locale=en&layout=compact" alt="rakshan0004" /></p>
+### 🗄️ Databases
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshan0004&show_icons=true&locale=en" alt="rakshan0004" /></p>
+### ☁️ Deployment & DevOps
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
+<img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="vercel" width="50" height="50"/>
+<img src="https://railway.app/brand/logo-light.png" alt="railway" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshan0004&" alt="rakshan0004" /></p>
+### 🧪 Testing & API Tools
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit" width="50" height="50"/>
+</p>
+
+### 🛠️ Development Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+</p>
+
+### 🤖 AI/ML & Data Science
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🎯 Professional Profile
+
+```java
+public class RakshanChintala extends FreshGraduate implements FullStackDeveloper {
+    
+    private String graduationYear = "2024";
+    private String experience = "Full Stack Developer Intern";
+    
+    private String[] technicalSkills = {
+        "Java & Spring Boot Development",
+        "React.js & Modern Frontend",
+        "RESTful API Design & Development", 
+        "Database Design & Management",
+        "Cloud Deployment (AWS, Vercel, Railway)",
+        "Version Control & Collaboration",
+        "Problem Solving & Data Structures",
+        "AI/ML Model Integration"
+    };
+    
+    private String[] projectExperience = {
+        "E-commerce Web Applications",
+        "Task Management Systems",
+        "RESTful API Development",
+        "Database-driven Applications",
+        "Responsive Frontend Interfaces"
+    };
+    
+    public String getCareerObjective() {
+        return "Seeking opportunities to contribute as a Java Full Stack Developer" +
+               " and grow with innovative technology teams! 🚀";
+    }
+    
+    public boolean isReadyToWork() {
+        return true; // Always ready for new challenges!
+    }
+}
+```
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakshan0004&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakshan0004&layout=compact&theme=radical&langs_count=6&hide=html,css&custom_title=Most%20Used%20Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshan0004&theme=radical" alt="rakshan0004" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshan0004&theme=redical&hide_border=true" alt="rakshan0004" />
+</div>
+
+## 🏆 GitHub Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rakshan0004&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="rakshan0004" />
+</div>
+
+## 💼 Professional Experience
+
+### 🚀 Full Stack Developer Intern
+**Duration**: [Your Internship Period]  
+**Key Achievements**:
+- Developed full-stack web applications using Java Spring Boot and React.js
+- Built RESTful APIs serving multiple frontend applications
+- Implemented responsive UI components with modern CSS frameworks
+- Collaborated with development teams using Git and Agile methodologies
+- Deployed applications on cloud platforms (AWS, Vercel, Railway)
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshan-chintala-08965521a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/rakshanch0004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](http://portfolio-rakshan.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rakshanch0004@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1iN0DraNgBD6_FCzF5UYelTE4MPby2aqH/view?usp=sharing)
+
+</div>
+
+## 🎨 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/rakshan0004">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshan0004&repo=java-spring-projects&theme=radical" />
+  </a>
+  <a href="https://github.com/rakshan0004">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshan0004&repo=react-fullstack-app&theme=radical" />  
+  </a>
+</div>
+
+## 📌 What I Bring to the Table
+
+🎓 **Fresh Perspective**: Recent graduate with modern development practices and latest technologies  
+💻 **Hands-on Experience**: Internship experience building real-world applications  
+🚀 **Quick Learner**: Adaptable to new technologies and frameworks  
+🔥 **Passionate Coder**: Genuine enthusiasm for software development and problem-solving  
+🤝 **Team Player**: Experience working in collaborative development environments  
+📚 **Continuous Learner**: Always updating skills with industry trends and best practices  
+
+## 🎯 Currently Seeking
+
+**Position**: Java Full Stack Developer (Entry Level/Fresher)  
+**Interests**: Enterprise Applications, Web Development, Cloud Technologies, AI/ML Integration  
+**Availability**: Immediate  
+**Location**: Open to Remote/Hybrid/On-site opportunities  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakshan0004&label=Profile%20views&color=e74c3c&style=for-the-badge" alt="rakshan0004" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+  <h3>💭 "The best time to plant a tree was 20 years ago. The second best time is now." 🌱</h3>
+  <p><strong>Ready to contribute, learn, and grow with your team! 🚀</strong></p>
+  <p><em>Open to opportunities • Fresh Graduate 2024 • Full Stack Developer</em></p>
+</div>
