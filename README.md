@@ -133,16 +133,30 @@ public class RakshanChintala extends FreshGraduate implements FullStackDeveloper
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakshan0004&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakshan0004&layout=compact&theme=radical&langs_count=6&hide=html,css&custom_title=Most%20Used%20Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakshan0004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshan0004&layout=compact&theme=tokyonight&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshan0004&theme=radical" alt="rakshan0004" />
+  <img width="600em" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshan0004&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshan0004&theme=redical&hide_border=true" alt="rakshan0004" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rakshan0004&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshan0004&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakshan0004&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakshan0004&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakshan0004&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakshan0004&theme=tokyonight&utc_offset=5.5" />
 </div>
 
 ## 🏆 GitHub Achievements
