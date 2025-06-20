@@ -165,16 +165,6 @@ public class RakshanChintala extends FreshGraduate implements FullStackDeveloper
   <img src="https://github-profile-trophy.vercel.app/?username=rakshan0004&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="rakshan0004" />
 </div>
 
-## 💼 Professional Experience
-
-### 🚀 Full Stack Developer Intern
-**Duration**: [Your Internship Period]  
-**Key Achievements**:
-- Developed full-stack web applications using Java Spring Boot and React.js
-- Built RESTful APIs serving multiple frontend applications
-- Implemented responsive UI components with modern CSS frameworks
-- Collaborated with development teams using Git and Agile methodologies
-- Deployed applications on cloud platforms (AWS, Vercel, Railway)
 
 ## 🌐 Connect With Me
 
