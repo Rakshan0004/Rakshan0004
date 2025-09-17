@@ -21,7 +21,7 @@
 - 💬 Ask me about **Java**, **Spring Boot**, **React**, **REST APIs**, **Database Design**
 - 📫 Reach me: **rakshanch0004@gmail.com**
 - ⚡ Fun fact: **I can debug faster than I can drink coffee!** ☕️🐛
-- Portfolio: https://rakshan-portfolio.onrender.com/
+- Portfolio: https://rakshan-3-d-portfolio.vercel.app/
 
 <br clear="right"/>
 
