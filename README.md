@@ -178,17 +178,6 @@ public class RakshanChintala extends FreshGraduate implements FullStackDeveloper
 
 </div>
 
-## 🎨 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/rakshan0004">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshan0004&repo=java-spring-projects&theme=radical" />
-  </a>
-  <a href="https://github.com/rakshan0004">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshan0004&repo=react-fullstack-app&theme=radical" />  
-  </a>
-</div>
-
 ## 📌 What I Bring to the Table
 
 🎓 **Fresh Perspective**: Recent graduate with modern development practices and latest technologies  
