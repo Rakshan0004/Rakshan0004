@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rakshan+Chintala;Java+Full+Stack+Developer;Fresh+Graduate+%7C+2024;Building+Scalable+Web+Solutions;Ready+to+Make+an+Impact!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Passionate Java Full Stack Developer | Fresh Graduate 2024 🎓</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | Fresh Graduate 2024 🎓</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Fresh Graduate (2024)** with hands-on experience in Java Full Stack Development
+- 🎓 **Fresh Graduate (2024)** with hands-on experience in Full Stack Development
 - 💼 **Full Stack Developer Intern** - Built real-world applications with Spring Boot & React
 - 🔭 Currently working on **Enterprise-level Java Projects** and **Modern Web Applications**
 - 🌱 Learning **Advanced Spring Framework**, **Cloud Technologies**, and **AI/ML Integration**
