@@ -19,7 +19,7 @@ Full Stack Developer with hands-on experience building end-to-end web applicatio
 
 - 🔭 Currently building enterprise-grade Java applications and REST APIs  
 - 🌱 Leveling up in Spring Security, cloud deployment, and AI integrations  
-- 💬 Ask me about **Java, Spring Boot, React, REST API design, or database modeling**
+- 💬 Ask me about **Java, Spring Boot, AI, AWS, LLMs, React, REST API design, or database modeling**
 
 ---
 
