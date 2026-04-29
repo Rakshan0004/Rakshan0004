@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rakshan-3-d-portfolio.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/rakshanch0004)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rakshanch0004@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1iN0DraNgBD6_FCzF5UYelTE4MPby2aqH/view?usp=sharing)
+(https://drive.google.com/file/d/1iN0DraNgBD6_FCzF5UYelTE4MPby2aqH/view?usp=sharing)
 
 </div>
 
